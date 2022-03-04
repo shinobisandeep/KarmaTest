@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 329C-F158
+
+ Directory of D:\GitRepo\test1
+
+04-03-2022  11:11    <DIR>          .
+04-03-2022  11:11    <DIR>          ..
+04-03-2022  11:11                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  455,765,745,664 bytes free
